@@ -1,0 +1,12 @@
+.icon-tabler-square-x, .icon-tabler-menu-2 {
+  cursor: pointer;
+}
+
+.icon-tabler-square-x {
+  top:.1em;
+  right: .1em;
+}
+
+.hidden a:hover {
+  color: #9dd3ff
+}
